@@ -712,221 +712,6 @@
             ]
         },
         {
-            "Province":"",
-            "Districts":[
-                {
-                    "District":"",
-                    "Corregimientos":[
-                        {
-                            "Corregimiento":""
-                        },
-                        {
-                            "Corregimiento":""
-                        },
-                        {
-                            "Corregimiento":""
-                        },
-                        {
-                            "Corregimiento":""
-                        },
-                        {
-                            "Corregimiento":""
-                        },
-                        {
-                            "Corregimiento":""
-                        },
-                        {
-                            "Corregimiento":""
-                        },
-                        {
-                            "Corregimiento":""
-                        },
-                        {
-                            "Corregimiento":""
-                        },
-                        {
-                            "Corregimiento":""
-                        }
-                    ]
-                },
-                {
-                    "District":"",
-                    "Corregimientos":[
-                        {
-                            "Corregimiento":""
-                        },
-                        {
-                            "Corregimiento":""
-                        },
-                        {
-                            "Corregimiento":""
-                        },
-                        {
-                            "Corregimiento":""
-                        },
-                        {
-                            "Corregimiento":""
-                        },
-                        {
-                            "Corregimiento":""
-                        },
-                        {
-                            "Corregimiento":""
-                        },
-                        {
-                            "Corregimiento":""
-                        },
-                        {
-                            "Corregimiento":""
-                        },
-                        {
-                            "Corregimiento":""
-                        }
-                    ]
-                },
-                {
-                    "District":"",
-                    "Corregimientos":[
-                        {
-                            "Corregimiento":""
-                        },
-                        {
-                            "Corregimiento":""
-                        },
-                        {
-                            "Corregimiento":""
-                        },
-                        {
-                            "Corregimiento":""
-                        },
-                        {
-                            "Corregimiento":""
-                        },
-                        {
-                            "Corregimiento":""
-                        },
-                        {
-                            "Corregimiento":""
-                        },
-                        {
-                            "Corregimiento":""
-                        },
-                        {
-                            "Corregimiento":""
-                        },
-                        {
-                            "Corregimiento":""
-                        }
-                    ]
-                },
-                {
-                    "District":"",
-                    "Corregimientos":[
-                        {
-                            "Corregimiento":""
-                        },
-                        {
-                            "Corregimiento":""
-                        },
-                        {
-                            "Corregimiento":""
-                        },
-                        {
-                            "Corregimiento":""
-                        },
-                        {
-                            "Corregimiento":""
-                        },
-                        {
-                            "Corregimiento":""
-                        },
-                        {
-                            "Corregimiento":""
-                        },
-                        {
-                            "Corregimiento":""
-                        },
-                        {
-                            "Corregimiento":""
-                        },
-                        {
-                            "Corregimiento":""
-                        }
-                    ]
-                },
-                {
-                    "District":"",
-                    "Corregimientos":[
-                        {
-                            "Corregimiento":""
-                        },
-                        {
-                            "Corregimiento":""
-                        },
-                        {
-                            "Corregimiento":""
-                        },
-                        {
-                            "Corregimiento":""
-                        },
-                        {
-                            "Corregimiento":""
-                        },
-                        {
-                            "Corregimiento":""
-                        },
-                        {
-                            "Corregimiento":""
-                        },
-                        {
-                            "Corregimiento":""
-                        },
-                        {
-                            "Corregimiento":""
-                        },
-                        {
-                            "Corregimiento":""
-                        }
-                    ]
-                },
-                {
-                    "District":"",
-                    "Corregimientos":[
-                        {
-                            "Corregimiento":""
-                        },
-                        {
-                            "Corregimiento":""
-                        },
-                        {
-                            "Corregimiento":""
-                        },
-                        {
-                            "Corregimiento":""
-                        },
-                        {
-                            "Corregimiento":""
-                        },
-                        {
-                            "Corregimiento":""
-                        },
-                        {
-                            "Corregimiento":""
-                        },
-                        {
-                            "Corregimiento":""
-                        },
-                        {
-                            "Corregimiento":""
-                        },
-                        {
-                            "Corregimiento":""
-                        }
-                    ]
-                }
-            ]
-        },
-        {
             "Province":"Colón",
             "Districts":[
                 {
@@ -1871,28 +1656,581 @@
                     "District":"Arraiján",
                     "Corregimientos":[
                         {
-                            "Corregimiento":""
+                            "Corregimiento":"Arraiján"
                         },
                         {
-                            "Corregimiento":""
+                            "Corregimiento":"Burunga"
                         },
                         {
-                            "Corregimiento":""
+                            "Corregimiento":"Cerro Silvestre"
                         },
                         {
-                            "Corregimiento":""
+                            "Corregimiento":"Juan Demóstenes Arosemena"
                         },
                         {
-                            "Corregimiento":""
+                            "Corregimiento":"Nuevo Emperador"
                         },
                         {
-                            "Corregimiento":""
+                            "Corregimiento":"Santa Clara"
                         },
                         {
-                            "Corregimiento":""
+                            "Corregimiento":"Veracruz"
                         },
                         {
-                            "Corregimiento":""
+                            "Corregimiento":"Vista Alegre"
+                        }
+                    ]
+                },
+                {
+                    "District":"Capira",
+                    "Corregimientos":[
+                        {
+                            "Corregimientos":"Caimito"
+                        },
+                        {
+                            "Corregimientos":"Campana"
+                        },
+                        {
+                            "Corregimientos":"Capira"
+                        },
+                        {
+                            "Corregimientos":"Cermeño"
+                        },
+                        {
+                            "Corregimientos":"Cirí de Los Sotos"
+                        },
+                        {
+                            "Corregimientos":"Cirí Grande"
+                        },
+                        {
+                            "Corregimientos":"El Cacao"
+                        },
+                        {
+                            "Corregimientos":"La Trinidad"
+                        },
+                        {
+                            "Corregimientos":"Las Ollas Arriba"
+                        },
+                        {
+                            "Corregimientos":"Lídice"
+                        },
+                        {
+                            "Corregimientos":"Villa Carmen"
+                        },
+                        {
+                            "Corregimientos":"Villa Rosario"
+                        },
+                        {
+                            "Corregimientos":"Santa Rosa"
+                        }
+                    ]
+                },
+                {
+                    "District":"Chame",
+                    "Corregimientos":[
+                        {
+                            "Corregimientos":"Bejuco"
+                        },
+                        {
+                            "Corregimientos":"Buenos Aires"
+                        },
+                        {
+                            "Corregimientos":"Cabuya"
+                        },
+                        {
+                            "Corregimientos":"Chame"
+                        },
+                        {
+                            "Corregimientos":"Chicá"
+                        },
+                        {
+                            "Corregimientos":"El Líbano"
+                        },
+                        {
+                            "Corregimientos":"Las Lajas"
+                        },
+                        {
+                            "Corregimientos":"Nueva Gorgona"
+                        },
+                        {
+                            "Corregimientos":"Punta Chame"
+                        },
+                        {
+                            "Corregimientos":"Sajalices"
+                        },
+                        {
+                            "Corregimientos":"Sorá"
+                        }
+                    ]
+                },
+                {
+                    "District":"La Chorrera",
+                    "Corregimientos":[
+                        {
+                            "Corregimientos":"Amador"
+                        },
+                        {
+                            "Corregimientos":"Arosemena"
+                        },
+                        {
+                            "Corregimientos":"Barrio Balboa"
+                        },
+                        {
+                            "Corregimientos":"Barrio Colón"
+                        },
+                        {
+                            "Corregimientos":"El Arado"
+                        },
+                        {
+                            "Corregimientos":"El Coco"
+                        },
+                        {
+                            "Corregimientos":"Feuillet"
+                        },
+                        {
+                            "Corregimientos":"Guadalupe"
+                        },
+                        {
+                            "Corregimientos":"Herrera"
+                        },
+                        {
+                            "Corregimientos":"Hurtado"
+                        },
+                        {
+                            "Corregimientos":"Iturralde"
+                        },
+                        {
+                            "Corregimientos":"La Represa"
+                        },
+                        {
+                            "Corregimientos":"Los Díaz"
+                        },
+                        {
+                            "Corregimientos":"Mendoza"
+                        },
+                        {
+                            "Corregimientos":"Obaldía"
+                        },
+                        {
+                            "Corregimientos":"Playa Leona"
+                        },
+                        {
+                            "Corregimientos":"Puerto Caimito"
+                        },
+                        {
+                            "Corregimientos":"Santa Rita"
+                        }
+                    ]
+                },
+                {
+                    "District":"San Carlos",
+                    "Corregimientos":[
+                        {
+                            "Corregimientos":"El Espino"
+                        },
+                        {
+                            "Corregimientos":"El Higo"
+                        },
+                        {
+                            "Corregimientos":"Guayabito"
+                        },
+                        {
+                            "Corregimientos":"La Ermita"
+                        },
+                        {
+                            "Corregimientos":"La Laguna"
+                        },
+                        {
+                            "Corregimientos":"Las Uvas"
+                        },
+                        {
+                            "Corregimientos":"Los Llanitos"
+                        },
+                        {
+                            "Corregimientos":"San Carlos"
+                        },
+                        {
+                            "Corregimientos":"San José"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Province":"Veraguas",
+            "Districts":[
+                {
+                    "District":"Atalaya",
+                    "Corregimientos":[
+                        {
+                            "Corregimientos":"Atalaya"
+                        },
+                        {
+                            "Corregimientos":"El Barrito"
+                        },
+                        {
+                            "Corregimientos":"La Carrillo"
+                        },
+                        {
+                            "Corregimientos":"La Montañuela"
+                        },
+                        {
+                            "Corregimientos":"San Antonio"
+                        }
+                    ]
+                },
+                {
+                    "District":"Calobre",
+                    "Corregimientos":[
+                        {
+                            "Corregimientos":"Barnizal"
+                        },
+                        {
+                            "Corregimientos":"Calobre"
+                        },
+                        {
+                            "Corregimientos":"Chitra"
+                        },
+                        {
+                            "Corregimientos":"El Cocla"
+                        },
+                        {
+                            "Corregimientos":"El Potrero"
+                        },
+                        {
+                            "Corregimientos":"La Laguna"
+                        },
+                        {
+                            "Corregimientos":"La Raya de Calobre"
+                        },
+                        {
+                            "Corregimientos":"La Tetilla"
+                        },
+                        {
+                            "Corregimientos":"La Yeguada"
+                        },
+                        {
+                            "Corregimientos":"Las Guías"
+                        },
+                        {
+                            "Corregimientos":"Monjarás"
+                        },
+                        {
+                            "Corregimientos":"San José"
+                        }
+                    ]
+                },
+                {
+                    "District":"Cañazas",
+                    "Corregimientos":[
+                        {
+                            "Corregimientos":"Cañazas"
+                        },
+                        {
+                            "Corregimientos":"Cerro de Plata"
+                        },
+                        {
+                            "Corregimientos":"El Aromillo"
+                        },
+                        {
+                            "Corregimientos":"El Picador"
+                        },
+                        {
+                            "Corregimientos":"Las Cruces"
+                        },
+                        {
+                            "Corregimientos":"Los Valles"
+                        },
+                        {
+                            "Corregimientos":"San José"
+                        },
+                        {
+                            "Corregimientos":"San Marcelo"
+                        }
+                    ]
+                },
+                {
+                    "District":"La Mesa",
+                    "Corregimientos":[
+                        {
+                            "Corregimientos":"Bisvalles"
+                        },
+                        {
+                            "Corregimientos":"Boró"
+                        },
+                        {
+                            "Corregimientos":"El Higo"
+                        },
+                        {
+                            "Corregimientos":"La Mesa"
+                        },
+                        {
+                            "Corregimientos":"Los Milagros"
+                        },
+                        {
+                            "Corregimientos":"Llano Grande"
+                        },
+                        {
+                            "Corregimientos":"San Bartolo"
+                        }
+                    ]
+                },
+                {
+                    "District":"Las Palmas",
+                    "Corregimientos":[
+                        {
+                            "Corregimientos":"Cerro de Casa"
+                        },
+                        {
+                            "Corregimientos":"Corozal"
+                        },
+                        {
+                            "Corregimientos":"El María"
+                        },
+                        {
+                            "Corregimientos":"El Prado"
+                        },
+                        {
+                            "Corregimientos":"El Rincón"
+                        },
+                        {
+                            "Corregimientos":"Las Palmas"
+                        },
+                        {
+                            "Corregimientos":"Lolá"
+                        },
+                        {
+                            "Corregimientos":"Manuel E. Amador Terrero"
+                        },
+                        {
+                            "Corregimientos":"Pixvae"
+                        },
+                        {
+                            "Corregimientos":"Puerto Vidal"
+                        },
+                        {
+                            "Corregimientos":"San Martín de Porres"
+                        },
+                        {
+                            "Corregimientos":"Viguí"
+                        },
+                        {
+                            "Corregimientos":"Zapotillo"
+                        }
+                    ]
+                },
+                {
+                    "District":"Mariato",
+                    "Corregimientos":[
+                        {
+                            "Corregimientos":"Arenas"
+                        },
+                        {
+                            "Corregimientos":"El Cacao"
+                        },
+                        {
+                            "Corregimientos":"Mariato"
+                        },
+                        {
+                            "Corregimientos":"Quebro"
+                        },
+                        {
+                            "Corregimientos":"Tebario"
+                        }
+                    ]
+                },
+                {
+                    "District":"Montijo",
+                    "Corregimientos":[
+                        {
+                            "Corregimientos":"Cébaco"
+                        },
+                        {
+                            "Corregimientos":"Costa Hermosa"
+                        },
+                        {
+                            "Corregimientos":"Gobernadora"
+                        },
+                        {
+                            "Corregimientos":"La Garceana"
+                        },
+                        {
+                            "Corregimientos":"Leones"
+                        },
+                        {
+                            "Corregimientos":"Montijo"
+                        },
+                        {
+                            "Corregimientos":"Pilón"
+                        },
+                        {
+                            "Corregimientos":"Unión del Norte"
+                        }
+                    ]
+                },
+                {
+                    "District":"Río de Jesús",
+                    "Corregimientos":[
+                        {
+                            "Corregimientos":"Catorce de Noviembre"
+                        },
+                        {
+                            "Corregimientos":"Río de Jesús"
+                        },
+                        {
+                            "Corregimientos":"Las Huacas"
+                        },
+                        {
+                            "Corregimientos":"Los Castillos"
+                        },
+                        {
+                            "Corregimientos":"Utira"
+                        }
+                    ]
+                },
+                {
+                    "District":"San Francisco",
+                    "Corregimientos":[
+                        {
+                            "Corregimientos":"Corral Falso"
+                        },
+                        {
+                            "Corregimientos":"Los Hatillos"
+                        },
+                        {
+                            "Corregimientos":"Remance"
+                        },
+                        {
+                            "Corregimientos":"San Francisco"
+                        },
+                        {
+                            "Corregimientos":"San Juan"
+                        },
+                        {
+                            "Corregimientos":"San José"
+                        }
+                    ]
+                },
+                {
+                    "District":"Santa Fe",
+                    "Corregimientos":[
+                        {
+                            "Corregimientos":"Calovébora"
+                        },
+                        {
+                            "Corregimientos":"El Alto"
+                        },
+                        {
+                            "Corregimientos":"El Cuay"
+                        },
+                        {
+                            "Corregimientos":"El Pantano"
+                        },
+                        {
+                            "Corregimientos":"Gatuncito"
+                        },
+                        {
+                            "Corregimientos":"Río Luis"
+                        },
+                        {
+                            "Corregimientos":"Rubén Cantú"
+                        },
+                        {
+                            "Corregimientos":"Santa Fe"
+                        }
+                    ]
+                },
+                {
+                    "District":"Santiago",
+                    "Corregimientos":[
+                        {
+                            "Corregimientos":"Canto del Llano"
+                        },
+                        {
+                            "Corregimientos":"Carlos Santana Ávila"
+                        },
+                        {
+                            "Corregimientos":"Edwin Fábrega"
+                        },
+                        {
+                            "Corregimientos":"La Colorada"
+                        },
+                        {
+                            "Corregimientos":"La Peña"
+                        },
+                        {
+                            "Corregimientos":"La Raya de Santa María"
+                        },
+                        {
+                            "Corregimientos":"Los Algarrobos"
+                        },
+                        {
+                            "Corregimientos":"Nuevo Santiago"
+                        },
+                        {
+                            "Corregimientos":"Ponuga"
+                        },
+                        {
+                            "Corregimientos":"San Martín de Porres"
+                        },
+                        {
+                            "Corregimientos":"San Pedro del Espino"
+                        },
+                        {
+                            "Corregimientos":"Santiago"
+                        },
+                        {
+                            "Corregimientos":"Santiago Este"
+                        },
+                        {
+                            "Corregimientos":"Santiago Sur"
+                        },
+                        {
+                            "Corregimientos":"Rodrigo Luque"
+                        },
+                        {
+                            "Corregimientos":"Urracá"
+                        }
+                    ]
+                },
+                {
+                    "District":"Soná",
+                    "Corregimientos":[
+                        {
+                            "Corregimientos":"Bahía Honda"
+                        },
+                        {
+                            "Corregimientos":"Calidonia"
+                        },
+                        {
+                            "Corregimientos":"Cativé"
+                        },
+                        {
+                            "Corregimientos":"El Marañón"
+                        },
+                        {
+                            "Corregimientos":"Guarumal"
+                        },
+                        {
+                            "Corregimientos":"Hicaco"
+                        },
+                        {
+                            "Corregimientos":"La Soledad"
+                        },
+                        {
+                            "Corregimientos":"La Trinchera"
+                        },
+                        {
+                            "Corregimientos":"Quebrada de Oro"
+                        },
+                        {
+                            "Corregimientos":"Río Grande"
+                        },
+                        {
+                            "Corregimientos":"Rodeo Viejo"
+                        },
+                        {
+                            "Corregimientos":"Soná"
                         }
                     ]
                 }

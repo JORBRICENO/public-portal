@@ -50,12 +50,6 @@
       "cozy": true
     },
     "models": {
-      "i18n": {
-        "type": "sap.ui.model.resource.ResourceModel",
-        "settings": {
-          "bundleName": "portal.i18n.i18n"
-        }
-      },
       "": {
         "dataSource": "mainService",
         "preload": true,
@@ -66,6 +60,16 @@
           "earlyRequests": true,
           "groupId": "$direct"
         }
+      },
+      "i18n": {
+        "type": "sap.ui.model.resource.ResourceModel",
+        "settings": {
+          "bundleName": "portal.i18n.i18n"
+        }
+      },
+      "provinces":{
+        "type":"sap.ui.model.json.JSONModel",
+        "uri":"model/Provinces.json"
       }
     },
     "resources": {
@@ -77,7 +81,7 @@
     },
     "routing": {
       "config": {
-        "routerClass": "sap.m.routing.Router",
+        "routerClass": "sap.f.routing.Router",
         "viewType": "XML",
         "async": true,
         "viewPath": "portal.view",
@@ -85,30 +89,56 @@
         "controlId": "app",
         "clearControlAggregation": false
       },
+
       "routes": [
         {
-          "name": "RouteLaunchpad",
-          "pattern": "RouteLaunchpad",
-          "target": [
-            "TargetLaunchpad"
+          "name":"portalMaster",
+          "pattern":"listvacancies",
+          "target":[
+            "portalMaster"
+          ]
+        },
+        {
+          "name":"portalDetails",
+          "pattern":"vacancies/{index}",
+          "target":[
+            "portalMaster",
+            "portalDetails"
           ]
         }
+
       ],
       "targets": {
-        "TargetLaunchpad": {
-          "viewType": "XML",
-          "transition": "slide",
-          "clearControlAggregation": false,
-          "viewId": "Launchpad",
-          "viewName": "Launchpad"
+
+        "portalContainer":{
+          "viewPath":"portal.view.portal",
+          "viewName":"Container",
+          "controlId":"app",
+          "controlAggregation":"pages"
+        },
+        "portalMaster":{
+          "parent":"portalContainer",
+          "viewPath":"portal.view.portal",
+          "viewName":"Master",
+          "controlId":"portalFlexibleColumnLayout",
+          "controlAggregation":"beginColumnPages"
+        },
+        "portalDetails":{
+          "parent":"portalContainer",
+          "viewPath":"portal.view.portal",
+          "viewName":"Details",
+          "controlId":"portalFlexibleColumnLayout",
+          "controlAggregation":"midColumnPages"
         }
+
       }
     },
+
     "rootView": {
-      "viewName": "portal.view.Launchpad",
+      "viewName": "portal.view.portal.Container",
       "type": "XML",
       "async": true,
-      "id": "Launchpad"
+      "id": "app"
     }
   }
 }

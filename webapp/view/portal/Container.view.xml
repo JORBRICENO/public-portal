@@ -1,0 +1,28 @@
+<mvc:View
+        xmlns="sap.f"
+        xmlns:m="sap.m"
+        xmlns:mvc="sap.ui.core.mvc"
+        displayBlock="true"
+	height="100%">
+
+
+    <m:Shell id="shell">
+        <m:App id="app">
+
+                <FlexibleColumnLayout id="portalFlexibleColumnLayout" 
+                                        backgroundDesign="Solid">
+
+                        <beginColumnPages>
+                                <mvc:XMLView viewName="portal.view.portal.Master"/>
+                        </beginColumnPages>
+
+                        <midColumnPages>
+                                <mvc:XMLView viewName="portal.view.portal.Details"/>
+                        </midColumnPages>
+
+                </FlexibleColumnLayout>
+
+        </m:App>
+    </m:Shell>
+
+</mvc:View>
